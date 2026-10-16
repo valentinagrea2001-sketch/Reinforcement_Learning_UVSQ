@@ -5,7 +5,7 @@ Here is the content of the course in Reinforcement Learning at the University of
 1) Dynamic Programming > Theory of Markov Decision Processes (MDP)
    - Value Function
    - Optimal Value Function and Bellmann Equation
-   - General Convergence
+   - Optimal Value Function and policy iterations algorithm
 
 2) Stochastic bandits > example of MDP 
 

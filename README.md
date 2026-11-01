@@ -13,6 +13,13 @@ Here is the content of the course in Reinforcement Learning at the University of
    - ETC(m) explore-then-commit algorithm
    - $\epsilon$-greedy and $\epsilon_{n}$-greedy decaying algorithm
 
+3) Reinforcement Learning without model
+
+   - MonteCarlo Algorithm for the estimation of the value function
+   - MonteCarlo Algorithm $\epsilon$-greedy for the estimation of the optimal policy
+   - TD(0) Algorithm, i.e. method of temporal differences, for the estimation of the optimal policy
+   - Q-learning Algorithm 
+
 ------------
 
 *For each topic, you will find an exercise sheet in Python.*
